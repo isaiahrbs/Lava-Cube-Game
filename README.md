@@ -2,6 +2,8 @@
 
 A simple survival game created with LÖVE where you control a red cube on a platform surrounded by lava. Your goal is to survive for 20 seconds while lava falls from the sky!
 
+This game helped me learn the basics of LUA, i have used AI to help me build this. I appreciated coding this game
+
 ## Requirements
 
 - [LÖVE](https://love2d.org/) (for running the game)
